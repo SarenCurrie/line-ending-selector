@@ -33,6 +33,12 @@
         "LF",
         "CRLF"
       ]
+    },
+    "allowLegacyLineEndings": {
+      "title": "Allow legacy line endings",
+      "description": "Allow conversion to legacy (CR) line endings",
+      "type": "boolean",
+      "default": false
     }
   },
   "standard": {
